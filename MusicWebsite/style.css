@@ -1,0 +1,52 @@
+*{
+background-color: maroon;
+}
+
+
+h1{
+font-family: pasifico;
+color: white;
+text-align: center;
+}
+
+
+
+ol{
+text-decoration: bold;
+color: white;
+font-size: 20px; 
+}
+
+
+h2{
+
+color: white;
+text-align: center;	
+}
+
+h3{
+
+color: white;
+text-align: center;	
+}
+table, td, th{
+border: 1px solid white;
+background-color:maroon;
+text-align: center;
+font-family: pacifico;
+}
+table{
+color: white;
+font-size: 20px;
+border: 1px;
+}
+th,td{
+padding: 3px;
+}
+
+
+
+a{
+color: white;
+text-align: center;
+}
